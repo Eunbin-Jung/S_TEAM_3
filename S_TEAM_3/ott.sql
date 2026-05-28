@@ -1,4 +1,8 @@
-
+DROP TABLE IF EXISTS reviews CASCADE;
+DROP TABLE IF EXISTS viewing_history CASCADE;
+DROP TABLE IF EXISTS users CASCADE;
+DROP TABLE IF EXISTS contents CASCADE;
+DROP TABLE IF EXISTS plans CASCADE;
 -- ============================================================
 -- 1. plans 테이블 (요금제 정보)
 -- ============================================================
