@@ -1,4 +1,4 @@
-```sql
+
 -- ============================================================
 -- 1. plans 테이블 (요금제 정보)
 -- ============================================================
@@ -91,4 +91,3 @@ CREATE TABLE reviews (
     CONSTRAINT unique_user_content_review
     UNIQUE(user_id, content_id)
 );
-```
