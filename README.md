@@ -18,7 +18,7 @@
     - 03_analysis_queries.sql   (#분석 쿼리 실행)
     - ott.sql   (#테이블 생성 SQL)
   
-2. branch > OTT_DATA
+3. branch > OTT_DATA
    - ott_data.sql   (#샘플 데이터 insert SQL)
 
 -------------------------------------------------------------
