@@ -1,4 +1,4 @@
-INSERT INTO users (user_id, email, username, age, gender, membership_type, join_date) VALUES
+INSERT INTO users (user_id, email, username, age, gender, plan_id, join_date) VALUES
 (1, 'kim123@gmail.com', '김철수', 24, 'M', 'Premium', '2025-01-15'),
 (2, 'lee_mina@naver.com', '이민아', 19, 'F', 'Basic', '2025-02-20'),
 (3, 'park_star@gmail.com', '박지성', 35, 'M', 'Standard', '2024-11-05'),
